@@ -1,5 +1,5 @@
 # linear-algebra-for-biology
-this repository documents my journey of learning linear equations in linear algebra and exploring its application in biology.
+This repository documents my journey of learning linear algebra and exploring its application in biology, particularly computational biology and bioinformatics.
 ## Objectives
 -Learn the fundamentals of linear algebra
 -Implement concepts using Python
