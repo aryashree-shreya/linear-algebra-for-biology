@@ -1,6 +1,10 @@
 # linear-algebra-for-biology
 this repository documents my journey of learning linear equations in linear algebra and exploring its application in biology.
-## Topics
+## Objectives
+-Learn the fundamentals of linear algebra
+-Implement concepts using Python
+-Understand applications in computational biology and bioinformatics
+## Topics covered
 -Systems of linear equations
 -Row reduction and echelon forms
 -Vector equations
