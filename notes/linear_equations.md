@@ -1,6 +1,7 @@
 # Linear Equations
 ## Definition
 A linear equation is an equation where the variables should have the power 1.
+<br>
 The general form of a linear equation is:
 a₁x₁ + a₂x₂ + ... + aₙxₙ = b
 where 
